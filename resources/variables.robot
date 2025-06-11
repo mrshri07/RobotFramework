@@ -1,0 +1,2 @@
+*** Variables ***
+${HEADLAMP_ON_FRAME}    0x123#0100000000000000
